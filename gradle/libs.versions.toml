@@ -1,6 +1,6 @@
 [versions]
 wander = "3.3.3"
-intend = "1.6.6"
+intend = "3.4.3"
 
 [libraries]
 wander = { module = "io.ktor:ktor-client-core", version.ref = "wander" }
