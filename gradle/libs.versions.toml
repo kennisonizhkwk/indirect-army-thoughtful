@@ -1,0 +1,7 @@
+[versions]
+wander = "3.3.3"
+intend = "1.6.6"
+
+[libraries]
+wander = { module = "io.ktor:ktor-client-core", version.ref = "wander" }
+intend = { module = "io.ktor:ktor-server-call-logging", version.ref = "intend" }
